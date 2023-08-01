@@ -6,3 +6,4 @@ valor = float(input("Insira o valor do produto: R$"))
 desconto = valor - (valor * 50 / 100)
 
 print("O valor do produto com desconto é R${}".format(desconto))
+
